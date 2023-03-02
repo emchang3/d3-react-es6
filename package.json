@@ -33,6 +33,6 @@
     "babel-preset-stage-1": "^6.16.0",
     "babel-preset-stage-2": "^6.18.0",
     "babel-preset-stage-3": "^6.17.0",
-    "webpack": "^1.15.0"
+    "webpack": "^5.75.0"
   }
 }
